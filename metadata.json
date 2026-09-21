@@ -1,0 +1,8 @@
+{
+  "name": "PakStudyJobs",
+  "description": "Pakistan's premier educational portal for latest government & private jobs, internships, matric & inter notes, and past papers with PDF downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
