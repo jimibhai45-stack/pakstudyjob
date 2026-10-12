@@ -1,6 +1,45 @@
-{
+
   "name": "PakStudyJobs",
-  "description": "Pakistan's premier educational portal for latest government & private jobs, internships, matric & inter notes, and past papers with PDF downloads.",
+  "shortName": "PakStudyJobs",
+  "description": "PakStudyJobs helps students and job seekers in Pakistan discover verified government/private jobs, chapter-wise study notes, and board past papers with easy PDF access.",
+  "version": "1.0.0",
+  "lang": "en-PK",
+  "startUrl": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "backgroundColor": "#f8fafc",
+  "themeColor": "#1d4ed8",
+  "scope": "/",
+  "categories": [
+    "education",
+    "jobs",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "relatedApplications": [],
+  "prefer_related_applications": false,
+  "keywords": [
+    "Pakistan jobs",
+    "government jobs",
+    "private jobs",
+    "study notes",
+    "past papers",
+    "matric",
+    "inter",
+    "entry test",
+    "FBISE",
+    "BISE Lahore",
+    "MDCAT",
+    "ECAT"
+  ],
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
